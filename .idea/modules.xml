@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Alina.iml" filepath="$PROJECT_DIR$/Alina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lexical_Syntax_Analyzer.iml" filepath="$PROJECT_DIR$/Lexical_Syntax_Analyzer.iml" />
     </modules>
   </component>
 </project>
